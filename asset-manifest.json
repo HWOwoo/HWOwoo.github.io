@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-shop/static/css/main.3f472ca7.css",
-    "main.js": "/React-shop/static/js/main.eb36be8b.js",
-    "static/js/787.23170c61.chunk.js": "/React-shop/static/js/787.23170c61.chunk.js",
-    "static/media/wallpaperbetter.jpg": "/React-shop/static/media/wallpaperbetter.100f74c88555c72e2206.jpg",
-    "index.html": "/React-shop/index.html",
-    "main.3f472ca7.css.map": "/React-shop/static/css/main.3f472ca7.css.map",
-    "main.eb36be8b.js.map": "/React-shop/static/js/main.eb36be8b.js.map",
-    "787.23170c61.chunk.js.map": "/React-shop/static/js/787.23170c61.chunk.js.map"
+    "main.css": "/static/css/main.d10b7667.css",
+    "main.js": "/static/js/main.a9a31ab3.js",
+    "static/js/787.23170c61.chunk.js": "/static/js/787.23170c61.chunk.js",
+    "static/media/wallpaperbetter.jpg": "/static/media/wallpaperbetter.100f74c88555c72e2206.jpg",
+    "index.html": "/index.html",
+    "main.d10b7667.css.map": "/static/css/main.d10b7667.css.map",
+    "main.a9a31ab3.js.map": "/static/js/main.a9a31ab3.js.map",
+    "787.23170c61.chunk.js.map": "/static/js/787.23170c61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f472ca7.css",
-    "static/js/main.eb36be8b.js"
+    "static/css/main.d10b7667.css",
+    "static/js/main.a9a31ab3.js"
   ]
 }
